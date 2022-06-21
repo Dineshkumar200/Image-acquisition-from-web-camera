@@ -1,4 +1,4 @@
-# Image-Acquisition-from-Web-Camera
+# 2.Image-Acquisition-from-Web-Camera
 ## Aim:
 To write a python program using OpenCV to capture the image from the web camera and do the following image manipulations.
 i) Write the frame as JPG 
@@ -129,7 +129,7 @@ cv2.destroyAllWindows()
 
 
 ```
-## Output
+## <br/><br/><br/><br/><br/><br/><br/><br/>Output
 
 ### i) Write the frame as JPG image
 ![i1](https://user-images.githubusercontent.com/75235789/161984708-7a202ee3-eae0-4343-8486-b86101191c8d.jpg)
@@ -139,7 +139,7 @@ cv2.destroyAllWindows()
 ![i2](https://user-images.githubusercontent.com/75235789/161984731-348569db-1c34-4cea-b3ce-a10e83b1c7c1.jpg)
 
 
-### iii) Display the video by resizing the window
+### <br/>iii) Display the video by resizing the window
 ![i3](https://user-images.githubusercontent.com/75235789/161984752-6993e3d3-60f6-48ec-9bb6-d36ad9a89d18.jpg)
 
 
